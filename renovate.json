@@ -1,0 +1,10 @@
+{
+  "dependencyDashboard": true,
+  "lockFileMaintenance": { "enabled": true },
+  "packageRules": [
+    {
+      "matchManagers": ["npm", "bun"],
+      "registryUrls": ["https://registry.npmjs.org/"]
+    }
+  ]
+}
